@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700418041960",
+    "project_id": "whiteboardpro-85300",
+    "storage_bucket": "whiteboardpro-85300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700418041960:android:00728325b7c9f860ec73dd",
+        "android_client_info": {
+          "package_name": "com.wb.amr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPgDkBb4Pz2bYwaploE6DKX9AJAONmZTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
